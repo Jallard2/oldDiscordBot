@@ -141,4 +141,4 @@ async def on_voice_state_update(member, before, after):
     
 
 
-client.run('OTIzMzkwNzAyMzU5MDQ4MjEy.YcPUmw.Bd5yU-88XiQBINcYX8libcm_hlE')
+client.run('TOKEN')
